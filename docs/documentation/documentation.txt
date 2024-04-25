@@ -1,15 +1,27 @@
-
 Git Capstone Project Description
+A part of the team tasked to enhance the website of Greenwood Community Library and to make it more informative and engaging we adding Book Review and update the Event page.
 
--First of all, I created a repository with a readme.md file.
--I created a folder named new-project
--created the below files home.html, about-us.html, contact-us.html ,  and event.html
--I did git add for  all the files.
--checked by git status
-
--I did git commit
--I did git push
-I  repeated the process for Morgan and Jamie.
-
-_ I now proceeded to github to do pull request
+-First of all, I created a repository with a readme.md file on github
+-I created a folder named new-project with command (mkdir new project)
+-I created the main branch by using (cd greenwood-library-website)
+-created the below files home.html, about-us.html, contact-us.html ,  and event.html using (touch <file>)
+-I change the branch by using (git checkout -b add-book-review)
+-I created a file book-review.html using (touch book-review.html)
+-I included a comment using (# this is morgans work)
+-I did git add using (git add book-review.html)
+-Did git commit using (git commit -m "morgan work")
+-Did git push using (git push origin add-book-review)
+-went ahead to do branch change using (git checkout -b update-event)
+-Created a file using the command (touch update-event.html)
+-Added comment using (# jamie work)
+-Did git status to get the status of the file.
+-I added to git using (git add update-event.html)
+-Did git commit using the command (git commit -m "Update event") to commit changes.
+-Then git push using (git push origin update-event).this is to push changes to the remote repository.
+-Due to the fact that the repository has three branches a git pull has to be done on git hub this is to create a merge of information within the three branches in the repository.
+-I clicked on the branch drop down menu, in the menu is main branch, add-book-review branch and update-event branch. 
+-I clicked update-navigation.
+-I reviewed the changes to make sure everything is good.  
+-I created a pull requested
+-The request was merged to incorporate the changes. 
 
