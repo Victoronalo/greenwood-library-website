@@ -1,0 +1,15 @@
+
+Git Capstone Project Description
+
+-First of all, I created a repository with a readme.md file.
+-I created a folder named new-project
+-created the below files home.html, about-us.html, contact-us.html ,  and event.html
+-I did git add for  all the files.
+-checked by git status
+
+-I did git commit
+-I did git push
+I  repeated the process for Morgan and Jamie.
+
+_ I now proceeded to github to do pull request
+
